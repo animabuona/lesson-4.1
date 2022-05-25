@@ -32,8 +32,8 @@ loan_years = int(input('На сколько лет берётся кредит: 
 loan_percent = int(input('Какой процент годовых: '))
  
 year_annuity_payment(loan_sum, loan_percent, loan_years)
-	
-	
+#просмотр изменений
+#для коммита в другой ветке
 	
 	
 	
